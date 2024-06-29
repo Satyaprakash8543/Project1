@@ -1,3 +1,3 @@
 # My new Project
 
-This project was created form local syatem.
+This project was created form local System
